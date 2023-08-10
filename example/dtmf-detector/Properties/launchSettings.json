@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dtmf-detector": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\thegr\\OneDrive\\Documents\\401\\crowdNoise.ac3"
+    }
+  }
+}
